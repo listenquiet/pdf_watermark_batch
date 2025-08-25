@@ -1,15 +1,14 @@
 ### 一、说明
 
-工作场景需要批量给pdf添加水印，但网上找了一圈都没找到免费的，都是要会员的，正好这两天在玩AiPy Pro，就想着让AI写个工具
+工作场景需要批量给pdf添加水印，但网上找了一圈都没找到免费的，都是要会员的，正好这两天在玩AiPy Pro，就想着让AI写个工具，工具截图如下
 
-<img src="file:///C:/Users/zhang/Pictures/marktext/2025-08-25-14-41-44-image.png" title="" alt="" width="556">
+<img width="877" height="852" alt="image" src="https://github.com/user-attachments/assets/53f09493-1226-41f7-a07a-8ce389418b12" />
+
 
 ### 二、文件目录
 
 最终文件组成很简单，就一个py文件。但在用AiPy Pro制作过程中产生领取了其他临时文件，包括AI自我排错、自我编译打包的临时文件
-
-<img src="file:///C:/Users/zhang/Pictures/marktext/2025-08-25-14-43-15-image.png" title="" alt="" width="402">
-
+<img width="520" height="899" alt="image" src="https://github.com/user-attachments/assets/fb531c25-bb56-4c19-a8d9-e889315ebe7a" />
 
 
 ### 三、自己编译
@@ -42,22 +41,24 @@
 
 编译好的在当前dist目录里
 
-![](C:\Users\zhang\Pictures\marktext\2025-08-25-14-37-59-image.png)
+<img width="773" height="114" alt="image" src="https://github.com/user-attachments/assets/43895a6d-853c-46fe-86e7-493069fd4d6e" />
 
-### 四、关于AiPy Pro和trustoken
+
+### 四、感谢AiPy Pro和trustoken
 
 AiPy Pro是知道创宇旗下的类似于manus的AI+自动化任务辅助工具，官方网址 [爱派（AiPy），本地Manus，你的工作牛马！](https://www.aipyaipy.com/)
 
 调用的是trustoken[Trustoken - AI大模型Token管理和分发平台](https://www.trustoken.cn/)我的trustoken邀请码：**5kvk**。每个用户注册了默认都有14元额度，用完可以免费领取
 
-![](C:\Users\zhang\Pictures\marktext\2025-08-25-14-46-13-image.png)
+<img width="1074" height="781" alt="image" src="https://github.com/user-attachments/assets/57712f08-e5a6-47df-b078-cf32816d6964" />
+
 
 感兴趣的可以自己去官网看。我分享下让工具干活的几个截图
 
-![](C:\Users\zhang\Pictures\marktext\2025-08-25-14-40-35-image.png)
+<img width="1605" height="1110" alt="image" src="https://github.com/user-attachments/assets/6353070b-99fa-41fa-a9c0-d433a66c54fb" />
 
-![](C:\Users\zhang\Pictures\marktext\2025-08-25-14-40-54-image.png)
+<img width="1119" height="887" alt="image" src="https://github.com/user-attachments/assets/2ff63937-752a-4257-8f2e-9b84219694a8" />
 
-![](C:\Users\zhang\Pictures\marktext\2025-08-25-14-41-16-image.png)
+<img width="1075" height="961" alt="image" src="https://github.com/user-attachments/assets/7bb33aab-9e21-426c-b6b5-45b5691b250c" />
 
 
