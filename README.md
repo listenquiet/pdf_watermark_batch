@@ -8,6 +8,7 @@
 ### 二、文件目录
 
 最终文件组成很简单，就一个py文件。但在用AiPy Pro制作过程中产生领取了其他临时文件，包括AI自我排错、自我编译打包的临时文件
+
 <img width="520" height="899" alt="image" src="https://github.com/user-attachments/assets/fb531c25-bb56-4c19-a8d9-e889315ebe7a" />
 
 
@@ -48,7 +49,7 @@
 
 AiPy Pro是知道创宇旗下的类似于manus的AI+自动化任务辅助工具，官方网址 [爱派（AiPy），本地Manus，你的工作牛马！](https://www.aipyaipy.com/)
 
-调用的是trustoken[Trustoken - AI大模型Token管理和分发平台](https://www.trustoken.cn/)我的trustoken邀请码：**5kvk**。每个用户注册了默认都有14元额度，用完可以免费领取
+调用的是trustoken[Trustoken - AI大模型Token管理和分发平台](https://www.trustoken.cn/)每个用户注册了默认都有14元额度，用完可以免费领取,我的trustoken邀请码：**5kvk** 如果觉得工具有用可以填写我的邀请码支持下。
 
 <img width="1074" height="781" alt="image" src="https://github.com/user-attachments/assets/57712f08-e5a6-47df-b078-cf32816d6964" />
 
